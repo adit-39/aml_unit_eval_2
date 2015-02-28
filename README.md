@@ -10,5 +10,5 @@ Quality of Speech: <br>
 ## Part 2: <br>
 Separation of Conversation Participants: <br>
   *Usage* : python speech_classification.py > output <br>
-  *Requirements* : The training and test files in the format participant_trng_vq.txt and c<num>_test_vq.txt <br> a_*.txt was changed <br>
+  *Requirements* : The training and test files in the format participant_trng_vq.txt and c<num>_test_vq.txt <br> a_test.txt was changed <br>
   *Output*: The output file with a split up of who speaks in the conversation at a particular second <br>
